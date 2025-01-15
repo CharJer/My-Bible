@@ -9,3 +9,5 @@ https://blog.silentsignal.eu/2015/04/03/the-story-of-a-pentester-recruitment/
 https://blog.silentsignal.eu/2025/01/14/pentester-recruitment-2025-mushroom/
 
 https://osintframework.com/
+
+https://pauljerimy.com/security-certification-roadmap/
