@@ -13,3 +13,5 @@ https://osintframework.com/
 https://pauljerimy.com/security-certification-roadmap/
 
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
+
+https://github.com/Hacking-Notes/Hacker-Roadmap
