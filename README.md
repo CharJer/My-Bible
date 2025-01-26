@@ -21,3 +21,6 @@ https://www.reddit.com/r/PinoyProgrammer/comments/14f0omu/for_individuals_who_wa
 https://www.offsec.com/cybersecurity-roles/penetration-tester/#what-is-a-penetration-tester
 
 https://www.hackthebox.com/blog/It-is-Okay-to-Use-Writeups
+
+https://medium.com/@ricardoveronica/how-to-become-a-hacker-c67c60c24483
+
