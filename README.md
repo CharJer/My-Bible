@@ -24,3 +24,8 @@ https://www.hackthebox.com/blog/It-is-Okay-to-Use-Writeups
 
 https://medium.com/@ricardoveronica/how-to-become-a-hacker-c67c60c24483
 
+https://www.linkedin.com/pulse/oscp-preparation-my-experience-tips-success-andrew-kutuzov-e8rnf/
+
+https://www.linkedin.com/pulse/my-ejpt-experience-nav-singh-/
+
+https://www.linkedin.com/pulse/oscp-month-possible-joas-antonio/
