@@ -17,3 +17,5 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20an
 https://github.com/Hacking-Notes/Hacker-Roadmap
 
 https://www.reddit.com/r/PinoyProgrammer/comments/14f0omu/for_individuals_who_want_to_get_into_cybersecurity/
+
+https://www.offsec.com/cybersecurity-roles/penetration-tester/#what-is-a-penetration-tester
