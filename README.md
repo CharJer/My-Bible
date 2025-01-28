@@ -3,6 +3,7 @@
 Becoming a Pentester  
 https://jhalon.github.io/becoming-a-pentester/
 
+how-to-be-an-ethical-hacker-in-2025  
 https://tcm-sec.com/how-to-be-an-ethical-hacker-in-2025/
 
 https://blog.silentsignal.eu/2015/04/03/the-story-of-a-pentester-recruitment/
