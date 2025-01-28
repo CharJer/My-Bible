@@ -29,3 +29,5 @@ https://www.linkedin.com/pulse/oscp-preparation-my-experience-tips-success-andre
 https://www.linkedin.com/pulse/my-ejpt-experience-nav-singh-/
 
 https://www.linkedin.com/pulse/oscp-month-possible-joas-antonio/
+
+https://out.reddit.com/t3_1e6abf5?app_name=android&token=AQAA32qYZ7m0jwR5gkd2uBSmfbeheSVZNLDitZj_AY-EkKZ-q6d_&url=https%3A%2F%2Fwww.brunorochamoura.com%2Fposts%2Fcpts-tips%2F
