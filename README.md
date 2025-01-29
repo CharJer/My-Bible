@@ -47,3 +47,6 @@ https://www.linkedin.com/pulse/oscp-month-possible-joas-antonio/
 
 CPTS Tips and Tricks    
 https://www.brunorochamoura.com/posts/cpts-tips/
+
+IPPsec Blog    
+https://www.hackthebox.com/blog/author/ippsec
