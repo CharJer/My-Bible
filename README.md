@@ -50,3 +50,6 @@ https://www.brunorochamoura.com/posts/cpts-tips/
 
 IPPsec Blog    
 https://www.hackthebox.com/blog/author/ippsec
+
+Cybersec N00b to Novice in 400 Days in TryHackMe    
+https://medium.com/@jself970/from-cybersec-n00b-to-novice-in-400-days-on-tryhackme-343c75875c01
