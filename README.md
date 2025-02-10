@@ -56,3 +56,5 @@ https://medium.com/@jself970/from-cybersec-n00b-to-novice-in-400-days-on-tryhack
 
 Hacker Mindset       
 https://www.hackthebox.com/blog/the-hacker-mindset
+
+https://www.reddit.com/r/cybersecurity/comments/jgn66l/what_i_look_for_in_cybersecurity_internship/
