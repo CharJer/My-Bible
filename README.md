@@ -58,3 +58,6 @@ Hacker Mindset
 https://www.hackthebox.com/blog/the-hacker-mindset
 
 https://www.reddit.com/r/cybersecurity/comments/jgn66l/what_i_look_for_in_cybersecurity_internship/
+
+Tryharder
+https://www.offsec.com/blog/what-it-means-to-try-harder/
