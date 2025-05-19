@@ -64,3 +64,6 @@ https://www.offsec.com/blog/what-it-means-to-try-harder/
 
 CBBH THM rooms and HTB boxes    
 https://alexandruionutraducu.com/posts/cbbh_review/
+
+CWEE modules    
+https://chatgpt.com/share/682b181a-bef8-8013-ab7d-51381b99d977
